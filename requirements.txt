@@ -1,0 +1,13 @@
+langchain
+openai
+pypdf
+faiss-cpu
+sentence-transformers
+streamlit
+tiktoken
+python-dotenv
+transformers
+torch
+gpt4all
+unstructured
+pyttsx3
